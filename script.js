@@ -1,7 +1,7 @@
 const imageContainer=document.querySelector('.image-container');
 const btnEl=document.querySelector('.btn');
 btnEl.addEventListener('click',()=>{
-    imageNumber=10;
+    imageNumber=9;
     addNewImages();
 })
 
